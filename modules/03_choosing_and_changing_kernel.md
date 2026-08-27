@@ -9,8 +9,11 @@
 ## Selecting a kernel
 
 In JupyterLab, the active kernel is shown near the top-right of an open notebook. You can select or change it by clicking the kernel name. You can also use the **Kernel** menu and choose **Change Kernel…**.
+<img width="1240" height="155" alt="kernel1" src="https://github.com/user-attachments/assets/6efa89ac-6628-4eae-83b3-802556f2a97c" />
 
 The exact list you see depends on the kernels available in your Jupyter4NFDI environment.
+<img width="429" height="400" alt="image" src="https://github.com/user-attachments/assets/594f6d26-6371-4e03-83f5-b9e39fb49224" />
+
 
 Suppose you create a variable in Python:
 
