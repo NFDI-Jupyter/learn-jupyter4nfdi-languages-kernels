@@ -8,7 +8,10 @@ project:
       orcid: https://orcid.org/0000-0001-8418-6735
 
   toc:
-    - file: modules/01_MODULE
+      - file: modules/01_introduction.md
+      - file: modules/02_notebook_kernel_environment.md
+      - file: modules/03_choosing_and_changing_kernel.md
+      - file: modules/04_why_multiple_kernels.md
 
 
   # In-page execution (the "power" button at the top of the page) using Thebe
