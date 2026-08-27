@@ -1,11 +1,11 @@
 version: 1
 
 project:
-  title: TRAINING MATERIALS TITLE
-  github: https://github.com/NFDI-Jupyter/REPOSITORY
+  title: Working with different programming languages and kernels in Jupyter4NFDI
+  github: https://github.com/NFDI-Jupyter/learn-jupyter4nfdi-languages-kernels
   authors:
-    - name: AUTHOR'S NAME
-      orcid: AUTHOR'S ORCID
+    - name: Aleksandra Pawlik
+      orcid: https://orcid.org/0000-0001-8418-6735
 
   toc:
     - file: modules/01_MODULE
@@ -14,7 +14,7 @@ project:
   # In-page execution (the "power" button at the top of the page) using Thebe
   jupyter:
     binder:
-      repo: NFDI-Jupyter/REPOSITORY
+      repo: NFDI-Jupyter/learn-jupyter4nfdi-languages-kernels
       provider: github
       ref: main
 
