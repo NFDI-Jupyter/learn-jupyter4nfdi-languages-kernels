@@ -61,7 +61,7 @@ Return to a notebook and choose the new kernel from the kernel selector.
 
 If it does not appear immediately, refresh JupyterLab.
 
-## Test the environment
+**5: Test the environment**
 
 In a notebook using **Python (test-kernel)**, run:
 
