@@ -12,6 +12,9 @@ project:
       - file: modules/02_notebook_kernel_environment.md
       - file: modules/03_choosing_and_changing_kernel.md
       - file: modules/04_why_multiple_kernels.md
+      - file: modules/05_custom_python_kernel.md
+      - file: modules/06_custom_kernels_jupyter4nfdi.md
+      - file: modules/07_custom_r_kernel.md
 
 
   # In-page execution (the "power" button at the top of the page) using Thebe
