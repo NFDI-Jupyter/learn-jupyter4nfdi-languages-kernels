@@ -2,7 +2,7 @@
 
 Jupyter4NFDI can run notebooks using different programming languages.
 On Jupyter4NFDI, you are able to work in using languages such as: Python, R, Julia, Bash, Java, C++, Octave, Fortran, or other. The notebook interface is separate from the program that executes your code.
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/6d0eb4bb-4a02-4672-aff7-a8291869879d" />
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/6d0eb4bb-4a02-4672-aff7-a8291869879d" />
 
 
 That program that executes the code is called a **kernel** (you can think of it as the engine behind JupyterNotebook).
